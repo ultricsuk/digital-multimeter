@@ -1,6 +1,6 @@
 # How to Check Your Car Battery with a Digital Multimeter (Without Feeling Like an Auto Electrician)
 
-![1\*3nt0xTIlnou-APUEgIvjjQ.jpeg][image1]
+
 
 Let’s face it, most of us don’t think much about our car battery until the dreaded day it decides not to cooperate. You’re ready to head out, turn the key (or press the button), and instead of that familiar engine hum, you’re met with a disappointing click — or worse, silence.
 
@@ -52,7 +52,7 @@ Here’s how to interpret what you see:
 
  
 
-![1\*n69DR8EzSdmSRujS\_m4rNQ.jpeg][image2]
+
 
 ## Step 5: Go the Extra Mile (Optional but Useful)
 
